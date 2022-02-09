@@ -1,5 +1,5 @@
 # Hi there, I'm Derek! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a senior front end and mobile engineer from Arizona currently working with React and React Native with 5+ years of experience in Vue. My knowledge spans many areas, including design (where I hold two national awards) and DevOps. I'm always seeking to improve and my colleagues would describe me as driven, resourceful, easy to collaborate with and always happy to lend a helping hand. I enjoy leading a team, contributing meaningful additions to projects, building user-centric interactions, developing proof of concepts and designing front end architecture.
+I'm a senior front end and mobile engineer from Arizona currently working with React and React Native in addition to 6 years of experience in Vue. My knowledge spans many areas, including design (where I hold two national awards) and DevOps. I'm always seeking to improve and my colleagues would describe me as driven, resourceful, easy to collaborate with and always happy to lend a helping hand. I enjoy leading a team, contributing meaningful additions to projects, building user-centric interactions, developing proof of concepts and designing front end architecture.
 
 ---
 
