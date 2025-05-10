@@ -1,5 +1,9 @@
 # Hi there, I'm Derek! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a senior front end and mobile engineer from Arizona currently working with React and React Native in addition to 6 years of experience in Vue. My knowledge spans many areas, including design (where I hold two national awards) and DevOps. I'm always seeking to improve and my colleagues would describe me as driven, resourceful, easy to collaborate with and always happy to lend a helping hand. I enjoy leading a team, contributing meaningful additions to projects, building user-centric interactions, developing proof of concepts and designing front end architecture.
+I'm a Staff Front End Engineer and technical team lead with a passion for building thoughtful, accessible and performant UIs. I've spent the last decade working across startups, agencies and enterprise environments—helping teams scale their front end practices and ship high-impact features.
+
+Most recently at Bitly, I've led the front end for two key revenue-driving platforms: Bitly Ads and Bitly Pages. My work has contributed directly to millions of dollars in revenue and massive user growth, while also driving key improvements in accessibility, test coverage and engineering quality.
+
+I'm hands-on, collaborative and mentorship-driven—whether it's guiding interns, refining product plans with design or shaping a component library the whole org can rely on.
 
 ---
 
